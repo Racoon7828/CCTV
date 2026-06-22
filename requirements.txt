@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 streamlit
 pandas
 plotly
@@ -5,4 +6,13 @@ scipy
 numpy
 openpyxl
 seaborn
+=======
+streamlit
+pandas
+plotly
+scipy
+numpy
+openpyxl
+seaborn
+>>>>>>> 647f63574713acc4d97111870d00a090f5c0aa28
 matplotlib
